@@ -14,7 +14,7 @@
 
 ----
 
-### 🛠 &nbsp;Languages and Tools
+### <img src="https://user-images.githubusercontent.com/116589040/230769892-86eec8c4-edc6-4e4e-96e3-dda9cbacf7b5.png" width="30" height="auto"/> &nbsp;Languages and Tools
 <p align="center">
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -31,7 +31,7 @@
 
 ----
 
-### 📊 &nbsp;GitHub Stats
+### <img src="https://user-images.githubusercontent.com/116589040/230769744-d73eb81e-ca48-42e6-a1ac-50f07c612ff7.png" width="30" height="auto"/> &nbsp;GitHub Stats
 <a><img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true"/></a>
 
 ----
