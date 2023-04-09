@@ -37,4 +37,4 @@
 ----
 
 ### 📊 &nbsp;GitHub Stats
-<a><img  alt="alesantoscoz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alesantoscoz&show_icons=true&theme=tokyonight" /></a>
+<a><img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true" /></a>
