@@ -37,11 +37,11 @@
 ----
 
 ### 📊 &nbsp;GitHub Stats
-<a><img  alt="alesantoscoz's GitHub Stats" src="https://user-images.githubusercontent.com/116589040/230768368-d6228d97-a747-4508-add2-da56ec9a61a8.gif" /></a>
+<a><img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true" /></a>
 
 ----
 
-<img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" align="right" width="200" height="auto"/>
+<img src=https://user-images.githubusercontent.com/116589040/230768368-d6228d97-a747-4508-add2-da56ec9a61a8.gif align="right" width="200" height="auto"/>
 
 ### 🫱🏼‍🫲🏽 &nbsp;Connect with me
 <p>
