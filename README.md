@@ -4,7 +4,7 @@
 
 ### 🛠 About me
 
-<img src="https://user-images.githubusercontent.com/116589040/230762511-bdcc64a0-607d-4cec-954b-ea1ed13855a3.gif" align="right" width="125" height="100"/>
+<img src="https://user-images.githubusercontent.com/116589040/230762511-bdcc64a0-607d-4cec-954b-ea1ed13855a3.gif" align="right" width="125" height="auto"/>
 
 
 - 💻 I’m front-end developer
