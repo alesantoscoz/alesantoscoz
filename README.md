@@ -7,5 +7,4 @@
 
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.htmlcardType=github&theme=nightowl&preferLogin=true">
-  <img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscozcardType=github&theme=nightowl&preferLogin=true" /></a>
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscozcardType=github&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
