@@ -41,7 +41,7 @@
 
 ----
 
-<img src=https://user-images.githubusercontent.com/116589040/230768940-7ae4af7c-4f5d-4b02-ac97-4cc3368627cd.gif align="right" width="500" height="auto"/>
+<img src=https://user-images.githubusercontent.com/116589040/230768940-7ae4af7c-4f5d-4b02-ac97-4cc3368627cd.gif align="right" width="200" height="auto"/>
 
 ### 🫱🏼‍🫲🏽 &nbsp;Connect with me
 <p align="center">
