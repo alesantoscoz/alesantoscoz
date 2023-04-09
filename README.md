@@ -4,15 +4,13 @@
 
 ### 🛠 About me
 
-<img src="https://user-images.githubusercontent.com/116589040/230763221-d2c9d502-ce5e-4682-a8d3-b6f5e03d1c17.gif" align="right" width="200" height="auto"/>
+<img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" align="right" width="200" height="auto"/>
 
 
 - 💻 I’m front-end developer
 - 🚀 I’m currently learning more about JavaScript frameworks
 - 👯 I like to work on team projects
 - 🌱 I'm a student of Business Administration
-
-
 
 
 
