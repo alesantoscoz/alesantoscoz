@@ -1,9 +1,17 @@
-### Hi I'm Ale 👋🏽👩🏽‍💻
+## Hi I'm Ale 👋🏽👩🏽‍💻
+
+----
+
+### 🛠 About me
 
 - 💻 I’m front-end developer
 - 🚀 I’m currently learning more about JavaScript frameworks
 - 👯 I like to work on team projects
 - 🌱 I'm a student of Business Administration
+
+
+![developer_med](https://user-images.githubusercontent.com/116589040/230762511-bdcc64a0-607d-4cec-954b-ea1ed13855a3.gif)
+
 
 ----
 
