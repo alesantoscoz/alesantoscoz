@@ -37,16 +37,17 @@
 ----
 
 ### 📊 &nbsp;GitHub Stats
-<a><img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true" /></a>
+<a><img  alt="alesantoscoz's GitHub Stats" src="https://user-images.githubusercontent.com/116589040/230768368-d6228d97-a747-4508-add2-da56ec9a61a8.gif" /></a>
 
 ----
 
+<img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" align="right" width="200" height="auto"/>
+
 ### 🫱🏼‍🫲🏽 &nbsp;Connect with me
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/alesantoscoz/"><img src="https://user-images.githubusercontent.com/116589040/230767426-8b798002-0710-43c0-9dc5-ec511035cffe.png" width="40" height="auto"/></a>
 <a href="mailto:ale.santoscoz@gmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767530-7c51a06d-1fc9-4247-894e-395263626a40.png" width="40" height="auto"/></a>
 <a href="mailto:ale.santoscoz@hotmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767586-e584fd85-d142-401c-a44c-c8bfa507f019.png" width="40" height="auto"/></a>
 </p>
-
 
 
