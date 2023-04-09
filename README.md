@@ -5,6 +5,7 @@
 - 👯 I like to work on team projects
 - 🌱 I'm a student of Business Administration
 
+----
 
 ### 🛠 &nbsp;Languages and Tools
 <p align="center">
