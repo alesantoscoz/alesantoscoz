@@ -43,9 +43,9 @@
 
 ### 🫱🏼‍🫲🏽 &nbsp;Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/alesantoscoz/"><img src="https://user-images.githubusercontent.com/116589040/230767426-8b798002-0710-43c0-9dc5-ec511035cffe.png"/></a>
-<a href="mailto:ale.santoscoz@gmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767530-7c51a06d-1fc9-4247-894e-395263626a40.png"/></a>
-<a href="mailto:ale.santoscoz@hotmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767586-e584fd85-d142-401c-a44c-c8bfa507f019.png"/></a>
+<a href="https://www.linkedin.com/in/alesantoscoz/"><img src="https://user-images.githubusercontent.com/116589040/230767426-8b798002-0710-43c0-9dc5-ec511035cffe.png" width="40" height="auto"/></a>
+<a href="mailto:ale.santoscoz@gmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767530-7c51a06d-1fc9-4247-894e-395263626a40.png" width="40" height="auto"/></a>
+<a href="mailto:ale.santoscoz@hotmail.com"><img src="https://user-images.githubusercontent.com/116589040/230767586-e584fd85-d142-401c-a44c-c8bfa507f019.png" width="40" height="auto"/></a>
 </p>
 
 
