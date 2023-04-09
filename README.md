@@ -7,4 +7,4 @@
 
 
 
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=true">    <img  alt="alesantoscoz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alesantoscoz?cardType=github&theme=nightowl&preferLogin=true" />  </a>
