@@ -33,7 +33,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/116589040/230769744-d73eb81e-ca48-42e6-a1ac-50f07c612ff7.png" width="30" height="auto"/> &nbsp;GitHub Stats
 
-<a><img  alt="alesantoscoz's GitHub Stats" src="https://api.mygitstats.com/svg/116589040" width="300" height="auto"/></a>
+<a><img  alt="alesantoscoz's GitHub Stats" src="https://api.mygitstats.com/svg/116589040" width="500" height="auto"/></a>
 
 ----
 
