@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/116589040/230763255-39803895-78b3-4273-988e-f6626e5b464d.gif" align="right" width="200" height="auto"/>
 
 
-- 💻 I’m front-end developer
-- 🚀 I’m currently learning more about JavaScript frameworks
+- 💻 Front-end developer
+- 🚀 Currently learning more about JavaScript frameworks
 - 👯 I like to work on team projects
 - 🌱 I'm a student of Business Administration
 
